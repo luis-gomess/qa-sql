@@ -1,4 +1,4 @@
-# Municipal Licensing System — SQL Portfolio
+# Municipal Licensing System - QA SQL
 
 A relational database project built with MySQL to demonstrate SQL proficiency beyond academic exercises. The project simulates a municipal licensing system in which cities issue activity licenses to individuals. It covers schema design, data manipulation, analytical queries, and data validation test scenarios.
 
@@ -6,16 +6,16 @@ A relational database project built with MySQL to demonstrate SQL proficiency be
 
 ## Objective
 
-Design and document a relational database that models the issuance and management of municipal activity licenses — such as food trucks, taxi services, and street vendors — demonstrating practical SQL skills including schema evolution, referential integrity, business rule enforcement, and structured query reporting.
+Design and document a relational database that models the issuance and management of municipal activity licenses - such as food trucks, taxi services, and street vendors - demonstrating practical SQL skills including schema evolution, referential integrity, business rule enforcement, and structured query reporting.
 
 ---
 
 ## Technologies Used
 
 - **MySQL 8+**
-- **SQL** — DDL, DML, DQL
-- **Markdown** — documentation
-- **DBeaver** — execution
+- **SQL** - DDL, DML, DQL
+- **Markdown** - documentation
+- **DBeaver** - execution
 
 ---
 
@@ -91,10 +91,3 @@ mysql -u your_user -p licensing_management < scripts/05_validation_tests.sql
 | Conditionals | `CASE WHEN` |
 | Date Functions | `CURRENT_DATE`, `DATE_ADD`, `INTERVAL` |
 | Integrity Validation | Orphan detection, duplicate checks, constraint verification |
-
----
-
-## Author
-
-**[Your Name]**  
-[LinkedIn](https://www.linkedin.com/in/luis-gomess/)
